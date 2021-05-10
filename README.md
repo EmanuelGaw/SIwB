@@ -1,9 +1,13 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/EmanuelGaw/SIwB/HEAD)
 
+# https://mybinder.org/v2/gh/EmanuelGaw/SIwB/HEAD
+
 ---
 title: "Data Refinement"
 output: word_document
 ---
+
+# Packages
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
@@ -127,5 +131,3 @@ and is ready for further analysis and processing.
 ```{r}
 write.table(titanicMessData, file = "TitanicCleaned.tsv", sep = "\t", row.names=FALSE)
 ```
-
-# https://mybinder.org/v2/gh/EmanuelGaw/SIwB/HEAD
