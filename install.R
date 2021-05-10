@@ -1,0 +1,1 @@
+print("God bless you!")
