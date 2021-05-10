@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/EmanuelGaw/SIwB/HEAD)
+
 ---
 title: "Data Refinement"
 output: word_document
